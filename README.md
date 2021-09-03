@@ -25,6 +25,6 @@ deductive reasoning, SAT solving, and programming languages based on logic.
 - Assignemnt 1 (written, non-coding)
 - Assignemnt 2 (written, non-coding)
 - Assignemnt 3 (written, non-coding)
-- Assignemnt 4 (Prolog code)
+- Assignemnt 4 (code attached)
 
 
