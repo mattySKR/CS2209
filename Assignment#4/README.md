@@ -1,12 +1,12 @@
 # Description 
 
---- Part 1: ---
+--- Part 0: ---
 
 Wrote a Prolog function last(List, LastItem) that gives the last item in the list. 
 Theb used the function on the following lists: [], [a], [a,b,c]. Comments provided
 in the program.
 
---- Part 2: ---
+--- Part 1: ---
 
 Given the Prolog function for the 8-queens program:
 
