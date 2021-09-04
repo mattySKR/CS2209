@@ -25,5 +25,6 @@ Given the Prolog function for the 8-queens program:
     values 1 to 8.
     
 --- Part 2: ---
-Refer to the comments in "CS2209_assignment4.pdf".
+
+* Refer to the comments in "CS2209assignment4.pdf".
     
