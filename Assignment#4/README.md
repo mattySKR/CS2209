@@ -2,17 +2,13 @@
 
 --- Part 1: ---
 
-1)
+1) Wrote a Prolog function last(List, LastItem) that gives the last item in the list. 
+   Then used the function on the following lists: [], [a], [a,b,c]. Comments provided
+   in the program.
 
-Wrote a Prolog function last(List, LastItem) that gives the last item in the list. 
-Theb used the function on the following lists: [], [a], [a,b,c]. Comments provided
-in the program.
+2) Given the Prolog function for the 8-queens program:
 
-2)
-
-Given the Prolog function for the 8-queens program:
-
-  eightQueens(Board) :- permutation([1,2,3,4,5,6,7,8], Board), checkDiagonals(Board).
+   eightQueens(Board) :- permutation([1,2,3,4,5,6,7,8], Board), checkDiagonals(Board).
   
 2a) Completed the program with a function to perform the checkDiagonals function. 
 
