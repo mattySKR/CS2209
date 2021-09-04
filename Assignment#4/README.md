@@ -22,5 +22,5 @@
     
 --- Part 2: ---
 
-* Refer to the comments in "CS2209assignment4.pdf".
+* Refer to the comments in "CS2209assignment4.pdf"
     
