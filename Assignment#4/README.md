@@ -1,12 +1,14 @@
 # Description 
 
---- Part 0: ---
+--- Part 1: ---
+
+1)
 
 Wrote a Prolog function last(List, LastItem) that gives the last item in the list. 
 Theb used the function on the following lists: [], [a], [a,b,c]. Comments provided
 in the program.
 
---- Part 1: ---
+2)
 
 Given the Prolog function for the 8-queens program:
 
@@ -21,4 +23,7 @@ Given the Prolog function for the 8-queens program:
     make an N-Queens function. Must notice: SWI-Prolog has a fucntion numlist that
     generates a list [1, ..., N]. We then run the new function with N having the
     values 1 to 8.
+    
+--- Part 2: ---
+Refer to the comments in "CS2209_assignment4.pdf".
     
